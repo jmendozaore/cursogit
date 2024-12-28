@@ -1,0 +1,24 @@
+{
+  "name": "cursogit",
+  "version": "1.0.0",
+  "description": "inicio nuevo login",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmendozaore/cursogit.git"
+  },
+  "author": "jmendozaore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmendozaore/cursogit/issues"
+  },
+  "homepage": "https://github.com/jmendozaore/cursogit#readme",
+  "dependencies": {
+    "cursogit": "file:",
+    "express": "^4.21.2"
+  }
+}

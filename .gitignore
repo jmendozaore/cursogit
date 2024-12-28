@@ -1,0 +1,4 @@
+# Modifica que archicos carga al repositorio
+
+*.txt
+/node_modules
