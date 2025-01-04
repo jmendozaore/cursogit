@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jmendozaore/cursogit#readme",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "cursogit": "file:",
     "express": "^4.21.2"
   }
